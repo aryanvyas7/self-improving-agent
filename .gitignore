@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+eval_results.json
+improve_log.json
+prompt_history/
+.claude/
+.DS_Store
